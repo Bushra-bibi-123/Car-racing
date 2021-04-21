@@ -31,6 +31,50 @@ margin-right: 100px;
     <h2>Genre:</h2>
     <p>
     The genre of my game would be classed as a racing simulation.It would be a modern game based around the country side / villages as there is more road available in those areas.
+    Mechanics
+            </h2>
+             <dl>
+                <dt>
+                    <h3>
+                       Boost Gauge 
+                    </h3>
+                </dt>
+                <dd>
+                    <p>
+                        Every vehicle has a Boost Gauge in the bottom center which indicates the current boost pressure. 
+The dial will raise from zero to full as long as you hold down the accelerator uninterrupted. Releasing the accelerator
+ or braking will lose all boost, even in the air.
+
+Once the boost gauge is full, the needle will eventually begin to shake if you have the Tuning Part "Overcharged Turbo" equipped. 
+This means that the boost pressure is close to release. Shortly after this, if you do not interrupt your acceleration, the boost
+ pressure will release and your Overcharged Turbo will engage, giving you a boost of speed.
+
+After releasing the boost pressure via your Overcharged Turbo, you will need to release the accelerator or brake in order
+ to begin charging your turbo boost again. This works unlimited times, but it takes every vehicle a different amount of time 
+to charge an overcharged turbo because the engine is revving up at a different rate.
+
+When you charge up the boost with the Super Diesel or the Racing Truck and your needle stops charging the Overcharged Turbo,
+ you can quickly click the brake pedal in very small intervals and your Overcharged Turbo will resume charging.
+                    </p>
+                </dd>
+                </dl>
+            
+ <dl>
+                <dt>
+                    <h3>
+                       Landing Boost
+                    </h3>
+                </dt>
+                <dd>
+                    <p>
+                        Landing Boost can be performed with the "Landing Boost" tuning part equipped by ensuring the vehicle lands from an 
+at least 2 Airtime long jump with all its wheels touching the ground simultaneously. Successfully performing this move will be signified by 
+a sudden "dash" forward of speed by your vehicle, as well as a discharge of sparks from the wheels and a distinctive sound. If you combine
+ it with "Jump Shocks" and activate them at the right moment, it will gives you a boost up and you can speed up your momentum for a longer 
+time by perfectly performed jumps
+                    </p>
+                </dd>
+                </dl>
         
         </p>
     <h3> Target audience:</h3>
